@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AboutMe</string>
+    <string name="person_name">Al Tyus</string>
+    <string name="person_height">Height: 6\'1\"</string>
+    <string name ="person_birthday">Born: July 4</string>
+    <string name="person_favorite_movie">Favorite Movie: Gladiator</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
