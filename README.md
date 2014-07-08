@@ -6,4 +6,4 @@ language: java
 Android-AboutMe
 ===============
 
-![AboutMeUI](AboutMeScreenshot.tiff)
+![AboutMeUI](AboutMeScreenshot.png)
