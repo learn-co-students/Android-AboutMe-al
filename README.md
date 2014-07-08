@@ -20,6 +20,7 @@ The attached project has an Activity called ProfileActivity, which inflates a vi
 
  Your `fragment_profile.xml` file should contain the following structure.  
 
+```xml
  <LinearLayout>
  	<TextView>
  	<ImageView>
@@ -27,6 +28,7 @@ The attached project has an Activity called ProfileActivity, which inflates a vi
  	<TextView>
  	<TextView>	
  </LinearLayout> 
+```
 
 Make sure to use your projects Strings.xml file to define static strings for your TextViews.  
 
