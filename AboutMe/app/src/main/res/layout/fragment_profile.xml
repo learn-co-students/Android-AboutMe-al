@@ -9,54 +9,40 @@
         android:text="@string/person_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
         android:textSize="40sp"
         android:textStyle="bold"
-        android:id="@+id/textView"
         android:textColor="@android:color/white"/>
 
     <ImageView
         android:layout_marginTop="10dp"
         android:layout_width="150dp"
         android:layout_height="300dp"
-        android:id="@+id/imageView"
         android:src="@drawable/al"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
         android:contentDescription="@string/image_content_description" />
 
     <TextView
-        android:id="@+id/heightTextView"
         android:text="@string/person_height"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/imageView"
         android:textSize="24sp"
         android:textStyle="italic"
-        android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"
       />
 
     <TextView
-        android:id="@+id/birthdayTextView"
         android:text="@string/person_birthday"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="24sp"
         android:textStyle="italic"
-        android:layout_below="@+id/heightTextView"
-        android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"/>
 
     <TextView
-        android:id="@+id/movieTextView"
         android:text="@string/person_favorite_movie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="24sp"
         android:textStyle="italic"
-        android:layout_below="@+id/birthdayTextView"
-        android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"/>
 
 </LinearLayout>
