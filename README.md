@@ -32,4 +32,4 @@ The attached project has an Activity called ProfileActivity, which inflates a vi
 
 Make sure to use your projects Strings.xml file to define static strings for your TextViews.  
 
-![AboutMeUI](AboutMeScreenshot.png)
+![About me UI](http://i.imgur.com/fskDIk0.png)
