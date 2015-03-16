@@ -1,48 +1,8 @@
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                   android:orientation="vertical"
                   android:layout_width="match_parent"
                   android:layout_height="match_parent"
                   android:gravity="center"
                   android:background="@android:color/holo_green_light">
-
-    <TextView
-        android:text="@string/person_name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="40sp"
-        android:textStyle="bold"
-        android:textColor="@android:color/white"/>
-
-    <ImageView
-        android:layout_marginTop="10dp"
-        android:layout_width="150dp"
-        android:layout_height="300dp"
-        android:src="@drawable/al"
-        android:contentDescription="@string/image_content_description" />
-
-    <TextView
-        android:text="@string/person_height"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="24sp"
-        android:textStyle="italic"
-        android:textColor="@android:color/white"
-      />
-
-    <TextView
-        android:text="@string/person_birthday"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="24sp"
-        android:textStyle="italic"
-        android:textColor="@android:color/white"/>
-
-    <TextView
-        android:text="@string/person_favorite_movie"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="24sp"
-        android:textStyle="italic"
-        android:textColor="@android:color/white"/>
 
 </LinearLayout>
