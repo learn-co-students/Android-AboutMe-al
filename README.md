@@ -30,3 +30,5 @@ The attached project has an Activity called ProfileActivity, which inflates a vi
 Make sure to use your projects Strings.xml file to define static strings for your TextViews.  
 
 ![About me UI](http://i.imgur.com/fskDIk0.png)
+
+<a href='https://learn.co/lessons/Android-AboutMe' data-visibility='hidden'>View this lesson on Learn.co</a>
