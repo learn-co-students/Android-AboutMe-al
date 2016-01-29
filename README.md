@@ -31,4 +31,4 @@ Make sure to use your projects Strings.xml file to define static strings for you
 
 ![About me UI](http://i.imgur.com/fskDIk0.png)
 
-<a href='https://learn.co/lessons/Android-AboutMe' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Android-AboutMe' title='Android-AboutMe'>Android-AboutMe</a> on Learn.co and start learning to code for free.</p>
